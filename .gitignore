@@ -1,0 +1,12 @@
+locales/
+
+credits.html
+
+*.bin
+*.dat
+*.dll
+*.exe
+*.log
+*.pak
+
+*_*.bin
